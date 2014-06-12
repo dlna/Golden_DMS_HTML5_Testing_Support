@@ -1,0 +1,19 @@
+<ui>
+  <uiID>1e897818-1232-4bb1-a346-17b6a5933c42</uiID>
+  <name>HTML5 Tests (Simple UI)</name>
+  <description>HTML5 tests on http://web-platform.test/</description>
+  <iconList>
+    <icon>
+      <mimetype>image/png</mimetype>
+      <width>120</width>
+      <height>120</height>
+      <depth>24</depth>
+      <url>http://%ip%:%PHPPortNumber%/app_icons/html5_120.png</url>
+    </icon>
+  </iconList>
+  <fork>true</fork>
+  <lifetime>-1</lifetime>
+  <protocol shortName="DLNA-HTML5-1.0">
+    <uri>http://web-platform.test:8000/tools/runner/tests.html</uri>
+  </protocol>
+</ui>
