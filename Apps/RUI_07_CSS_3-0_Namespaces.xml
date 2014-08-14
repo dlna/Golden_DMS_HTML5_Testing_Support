@@ -1,0 +1,19 @@
+<ui>
+  <uiID>c7323687-2a28-459f-a9fb-72bf800663af</uiID>
+  <name>CSS Namespaces Conformance Test Suite</name>
+  <description>CSS Namespaces Conformance Test Suite on http://www.w3.org/</description>
+  <iconList>
+    <icon>
+      <mimetype>image/png</mimetype>
+      <width>120</width>
+      <height>120</height>
+      <depth>24</depth>
+      <url>http://%ip%:%PHPPortNumber%/app_icons/html5_120.png</url>
+    </icon>
+  </iconList>
+  <fork>true</fork>
+  <lifetime>-1</lifetime>
+  <protocol shortName="DLNA-HTML5-1.0">
+    <uri>http://www.w3.org/Style/CSS/Test/CSS3/Namespace/current/</uri>
+  </protocol>
+</ui>

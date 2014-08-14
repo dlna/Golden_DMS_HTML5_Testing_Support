@@ -1,0 +1,19 @@
+<ui>
+  <uiID>db65867c-d0f2-460e-9dc9-8010d8e6c234</uiID>
+  <name>CSS 3.0 Selectors Tests (Full UI)</name>
+  <description>CSS 3.0 Selectors tests on http://www.css3.info/</description>
+  <iconList>
+    <icon>
+      <mimetype>image/png</mimetype>
+      <width>120</width>
+      <height>120</height>
+      <depth>24</depth>
+      <url>http://%ip%:%PHPPortNumber%/app_icons/html5_120.png</url>
+    </icon>
+  </iconList>
+  <fork>true</fork>
+  <lifetime>-1</lifetime>
+  <protocol shortName="DLNA-HTML5-1.0">
+    <uri>http://tools.css3.info/selectors-test/test.html</uri>
+  </protocol>
+</ui>

@@ -1,0 +1,19 @@
+<ui>
+  <uiID>aed7ce6c-43b2-4c14-8f07-a3067bf18dea</uiID>
+  <name>WebGL Conformance Test Runner</name>
+  <description>WebGL Conformance Test Runner on http://www.khronos.org/</description>
+  <iconList>
+    <icon>
+      <mimetype>image/png</mimetype>
+      <width>120</width>
+      <height>120</height>
+      <depth>24</depth>
+      <url>http://%ip%:%PHPPortNumber%/app_icons/html5_120.png</url>
+    </icon>
+  </iconList>
+  <fork>true</fork>
+  <lifetime>-1</lifetime>
+  <protocol shortName="DLNA-HTML5-1.0">
+    <uri>https://www.khronos.org/registry/webgl/sdk/tests/webgl-conformance-tests.html</uri>
+  </protocol>
+</ui>

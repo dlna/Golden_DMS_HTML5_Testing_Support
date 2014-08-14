@@ -1,0 +1,19 @@
+<ui>
+  <uiID>546ac88a-dee1-4751-8231-1f18f42c775a</uiID>
+  <name>JavaScript Tests</name>
+  <description>JavaScript tests on http://test262.ecmascript.org/</description>
+  <iconList>
+    <icon>
+      <mimetype>image/png</mimetype>
+      <width>120</width>
+      <height>120</height>
+      <depth>24</depth>
+      <url>http://%ip%:%PHPPortNumber%/app_icons/html5_120.png</url>
+    </icon>
+  </iconList>
+  <fork>true</fork>
+  <lifetime>-1</lifetime>
+  <protocol shortName="DLNA-HTML5-1.0">
+    <uri>http://test262.ecmascript.org/</uri>
+  </protocol>
+</ui>

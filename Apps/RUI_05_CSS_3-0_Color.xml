@@ -1,0 +1,19 @@
+<ui>
+  <uiID>ff5b8db8-071c-4c37-803d-67899bc9c2d6</uiID>
+  <name>CSS 3.0 Color</name>
+  <description>CSS 3.0 Color tests on http://www.w3.org/</description>
+  <iconList>
+    <icon>
+      <mimetype>image/png</mimetype>
+      <width>120</width>
+      <height>120</height>
+      <depth>24</depth>
+      <url>http://%ip%:%PHPPortNumber%/app_icons/html5_120.png</url>
+    </icon>
+  </iconList>
+  <fork>true</fork>
+  <lifetime>-1</lifetime>
+  <protocol shortName="DLNA-HTML5-1.0">
+    <uri>http://www.w3.org/Style/CSS/Test/CSS3/Color/current/html4/</uri>
+  </protocol>
+</ui>

@@ -1,0 +1,19 @@
+<ui>
+  <uiID>c4e96ce5-b91f-4638-9de3-c4317f38ac7c</uiID>
+  <name>CSS2.1 Conformance Test Suite</name>
+  <description>CSS 2.1 tests on http://test.csswg.org/</description>
+  <iconList>
+    <icon>
+      <mimetype>image/png</mimetype>
+      <width>120</width>
+      <height>120</height>
+      <depth>24</depth>
+      <url>http://%ip%:%PHPPortNumber%/app_icons/html5_120.png</url>
+    </icon>
+  </iconList>
+  <fork>true</fork>
+  <lifetime>-1</lifetime>
+  <protocol shortName="DLNA-HTML5-1.0">
+    <uri>http://test.csswg.org/suites/css2.1/20110323/html4/toc.html</uri>
+  </protocol>
+</ui>
